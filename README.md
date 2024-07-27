@@ -19,3 +19,5 @@ During my time as an IT Intern with Bellevue College I was responsible for devel
 - Ubuntu Server 24.04 was the primary operation system used to configure the SIEM.
 
 ## Documentation
+
+[View PDF](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation.pdf)
