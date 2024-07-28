@@ -16,7 +16,7 @@ During my time as an IT Intern with Bellevue College I was responsible for devel
 
 - Elasticstack (Elasticsearch, Logstash, and Kibana) was the primary SIEM system used for log ingestion and analysis.
 - Raspberry Pi 4 was utilized as my local server used for on-premises deployment.
-- Ubuntu Server 24.04 was the primary operation system used to configure the SIEM.
+- Ubuntu Server 24.04 was the primary operation system which ran the SIEM system.
 
 ## Documentation
 
