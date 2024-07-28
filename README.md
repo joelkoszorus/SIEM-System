@@ -19,15 +19,17 @@ During my time as an IT Intern with Bellevue College I was responsible for devel
 - Ubuntu Server 24.04 was the primary operation system used to configure the SIEM.
 
 ## Documentation
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-1.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-2.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-3.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-4.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-5.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-6.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-7.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-8.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-9.png)
-![Page 1](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation-10.png)
+
+![SIEM Documentation-1](https://github.com/user-attachments/assets/08b3524a-e3cc-4ebb-a82c-dc7b086323f6)
+![SIEM Documentation-2](https://github.com/user-attachments/assets/ca3d08f1-c2b7-4438-b55f-b5a5714e523f)
+![SIEM Documentation-3](https://github.com/user-attachments/assets/6a3bfd39-aeb3-43e0-9889-d0d3f05105cb)
+![SIEM Documentation-4](https://github.com/user-attachments/assets/acdba065-80e6-4d84-a530-f7c96eb422cd)
+![SIEM Documentation-5](https://github.com/user-attachments/assets/7114a31f-cba5-4f3e-9fc0-596bd164b496)
+![SIEM Documentation-6](https://github.com/user-attachments/assets/7cbdd792-d504-414c-be75-96daba4c0db9)
+![SIEM Documentation-7](https://github.com/user-attachments/assets/e92fbe22-98cb-4486-a327-dcf4f62a9394)
+![SIEM Documentation-8](https://github.com/user-attachments/assets/40c28d5c-0643-4970-94b6-a8353e1d89c8)
+![SIEM Documentation-9](https://github.com/user-attachments/assets/24bb77e5-c540-4a08-9a4d-adeca31a1183)
+![SIEM Documentation-10](https://github.com/user-attachments/assets/29cba3ed-2630-4333-ab53-7b24a9eab379)
 
 [View PDF](https://github.com/joelkoszorus/SIEM-System/blob/main/SIEM%20Documentation.pdf)
+
